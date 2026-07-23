@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-y33tmw.goib138.site/sitemap.xml
